@@ -10,4 +10,4 @@ Provide behavior to your classes with methods
 Use inheritance to build hierarchies of classes
 Provide interfaces with abstract classes
 
-Left off: https://realpython.com/python-classes/#understanding-the-benefits-of-using-classes-in-python
+Left off: https://realpython.com/python-classes/#the-__dict__-attribute
